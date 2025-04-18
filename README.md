@@ -22,7 +22,7 @@ The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. 
 
 ### 📄 Project Report
 📘 You can check out the complete **Project Report** here:  
-🔗 [CPMS_Project_Report.pdf](https://github.com/CodeWithTanim/Cosmetics-Product-Management-System/blob/main/CPMS_Project_Report.pdf)
+🔗 [CPMS_Project_Report.pdf](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/CPMS_Project_Report.pdf)
 
 ---
 
@@ -83,16 +83,17 @@ The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. 
   - Logout
 
 ### System Snapshots of some Features
-![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/1.png)
-![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/2.png)
-![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/3.png)
-![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/4.png)
-![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/5.png)
+![MasterHead](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/Templates%20of%20CPMS/1.png)
+![MasterHead](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/Templates%20of%20CPMS/2.png)
+![MasterHead](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/Templates%20of%20CPMS/3.png)
+![MasterHead](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/Templates%20of%20CPMS/4.png)
+![MasterHead](https://github.com/amit-hasan10/Cosmetics-Products-Management-System/blob/main/Templates%20of%20CPMS/5.png)
+
 
 ## Contributors
 
-<a href="https://github.com/CodeWithTanim/Cosmetics-Product-Management-System/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CodeWithTanim/Cosmetics-Product-Management-System" />
+<a href="https://github.com/amit-hasan10/Cosmetics-Product-Management-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amit-hasan10/Cosmetics-Product-Management-System" />
 </a>
 
 ## How to Run ??
@@ -121,12 +122,10 @@ Password:
   1. Re-scan downloaded files using your personal virus checker before using it.
   2. NEVER, EVER run compiled files (.exe's, .ocx's, .dll's etc.)--only run source code.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D405&width=435&lines=%F0%9F%91%8BHELLO+WORLD!+I'M+TANIM+HERE%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%92%81%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8FPLEASE+FOLLOW+MY+GITHUB%F0%9F%92%96;%F0%9F%92%BBTHANKS+ALL+MY+FAMILY+MEMBERS%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
-<a href="https://instagram.com/CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="msrtanim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/robi0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amit-hasan10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amit_hasan_robi10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit-hasan10" height="30" width="40" /></a>
 </p>
 
